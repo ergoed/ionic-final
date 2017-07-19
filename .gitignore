@@ -46,3 +46,5 @@ UserInterfaceState.xcuserstate
 # config.*
 environments/**/*.js
 production.*
+
+.publish/
