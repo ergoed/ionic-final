@@ -20,6 +20,7 @@ coverage/
 node_modules/
 tmp/
 temp/
+dist/
 hooks/
 platforms/
 plugins/
